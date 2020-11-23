@@ -7,3 +7,28 @@
 	padding: 0;
 	border: 0;
 }
+/* Banner Containers */
+
+.callout-container {
+    height: 75vh;
+    background: url('assets/images/me.jpg') no-repeat center center fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+
+    display: flex;
+    align-items: center;
+    justify-content: left;
+
+    position: relative;
+}
+
+.opaque-overlay {
+    position: absolute;
+    top: 0;
+    left: 0;
+    height: 100%;
+    width: 100%;
+
+}
