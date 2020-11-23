@@ -1,45 +1,25 @@
-<img src="https://codeinstitute.s3.amazonaws.com/fullstack/ci_logo_small.png" style="margin: 0;">
 
-Welcome USER_NAME,
+# Fabiane Martins Portfolio
 
-This is the Code Institute student template for Gitpod. We have preinstalled all of the tools you need to get started. You can safely delete this README.md file, or change it for your own project. Please do read it at least once, though! It contains some important information about Gitpod and the extensions we use.
+Stream One Project: User-Centric Frontend Development - Code Institute 
 
-## Gitpod Reminders
+This is my personal portfolio website to share with prospective employers or clients my skills set and experience. The website structure was designed top from to bottom - left to right reading with the about section highligting a profile about myself, follow there is a skills section, work history section and contact form section.
+The contact form gives the opportunity for direct communication, not far below in the footer there is a download CV link and social links for further information.
 
-To run a frontend (HTML, CSS, Javascript only) application in Gitpod, in the terminal, type:
+## UX
+The project is targeting hiring managers with little time on their hands to scan throght and intere CV, hence the scroll down layout and sleek and clean design. The main focus is get the user to scan all the main infomation in one page and use the contact form to get in touch. 
 
-`python3 -m http.server`
+## Strategy
 
-A blue button should appear to click: *Make Public*,
+1. My gaol is to have all the information in one page yet, separated by section within scroll down maner.
+2. A fixed nav bar is avaliable to allow users to quick move between pages.
+3. The design is clean and minimalist for an easy reading.
 
-Another blue button should appear to click: *Open Browser*.
+## Technologies
 
-To run a backend Python file, type `python3 app.py`, if your Python file is named `app.py` of course.
-
-A blue button should appear to click: *Make Public*,
-
-Another blue button should appear to click: *Open Browser*.
-
-In Gitpod you have superuser security privileges by default. Therefore you do not need to use the `sudo` (superuser do) command in the bash terminal in any of the lessons.
-
-## Updates Since The Instructional Video
-
-We continually tweak and adjust this template to help give you the best experience. Here is the version history:
-
-**October 21 2020:** Versions of the HTMLHint, Prettier, Bootstrap4 CDN and Auto Close extensions updated. The Python extension needs to stay the same version for now.
-
-**October 08 2020:** Additional large Gitpod files (`core.mongo*` and `core.python*`) are now hidden in the Explorer, and have been added to the `.gitignore` by default.
-
-**September 22 2020:** Gitpod occasionally creates large `core.Microsoft` files. These are now hidden in the Explorer. A `.gitignore` file has been created to make sure these files will not be committed, along with other common files.
-
-**April 16 2020:** The template now automatically installs MySQL instead of relying on the Gitpod MySQL image. The message about a Python linter not being installed has been dealt with, and the set-up files are now hidden in the Gitpod file explorer.
-
-**April 13 2020:** Added the _Prettier_ code beautifier extension instead of the code formatter built-in to Gitpod.
-
-**February 2020:** The initialisation files now _do not_ auto-delete. They will remain in your project. You can safely ignore them. They just make sure that your workspace is configured correctly each time you open it. It will also prevent the Gitpod configuration popup from appearing.
-
-**December 2019:** Added Eventyret's Bootstrap 4 extension. Type `!bscdn` in a HTML file to add the Bootstrap boilerplate. Check out the <a href="https://github.com/Eventyret/vscode-bcdn" target="_blank">README.md file at the official repo</a> for more options.
-
---------
-
-Happy coding!
+1. HTML
+2. CSS
+3. Bootstrap 4
+4. Google Fonts
+5. TinyPNG - image compressor
+6. PicMonkey - image resize
