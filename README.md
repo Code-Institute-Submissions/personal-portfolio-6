@@ -3,6 +3,8 @@
 
 Stream One Project: User-Centric Frontend Development - Code Institute 
 
+## Overview
+
 This is my personal portfolio website to share with prospective employers or clients my skills set and experience. The website structure was designed top from to bottom - left to right reading with the about section highligting a profile about myself, follow there is a skills section, work history section and contact form section.
 The contact form gives the opportunity for direct communication, not far below in the footer there is a download CV link and social links for further information.
 
@@ -16,6 +18,14 @@ Website live demo can ve found [here](https://fabiane-martins.github.io/personal
 The project target hiring managers with little time on their hands to scan throght and intere CV, hence the scroll down layout and sleek and clean design. The main focus is get the user to scan all the main infomation in one page and use the contact form or social links to get in touch or download the pdf CV.
 
 ## Features
+
+- Home page with 5 sections linked in the nav bar as individual page.
+- Fixed nav-bar for easier user navigation regardless of which location on the page on desktop view.
+- On mobile view the nav-bar collapses showing all the pages, once the page is selected the hamburger nav automatically close back-up again.
+- Download CV page open in a new tab with pdf attached for printing or download.
+- Scocial links icons on the footer as well as extra download CV function.
+
+
 ## Features Left to Implement
 
 In the furture, I'd like to add JavaScript function to create 'scrolling effect'. I also, want to have a section or an additional page with other projects templates.
