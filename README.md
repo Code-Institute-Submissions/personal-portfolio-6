@@ -15,6 +15,11 @@ Website live demo can ve found [here] (https://fabiane-martins.github.io/persona
 ## UX
 The project target hiring managers with little time on their hands to scan throght and intere CV, hence the scroll down layout and sleek and clean design. The main focus is get the user to scan all the main infomation in one page and use the contact form or social links to get in touch or download the pdf CV.
 
+## Features
+## Features Left to Implement
+
+In the furture, I'd like to add JavaScript function to create 'scrolling effect'. I also, want to have a section or an additional page with other projects templates.
+
 ## Strategy
 
 1. My goal is to have all the information in one page yet, separated by section within scroll down maner.
@@ -33,3 +38,26 @@ The project target hiring managers with little time on their hands to scan throg
 8. GitHub - project repository and hosting service
 
 ## Code Validation
+
+## Testing
+
+## Deployment
+
+## Credits
+
+### Content
+
+All content in this portfolio website was written by me.
+
+### Media
+
+Banner image is an image of myself owned by myself. The background image in the skills section were taken from [unsplash](https://unsplash.com/images/stock), free stock-photo library. 
+
+### Code Snippets
+
+### Acknowledgements
+
+- I'll give thanks to my mentor, Oluwafemi Medale for mentoring me on the processes of designing to create this website as well as me ntoring me on the best practises and tool to approach.
+- The slack community, in special Jim Morel, #user-centric-frontend lead channel for being tiredless and efficient in aswering the many questions I've posted on the forum. 
+- To my fiance, for all love and support in encoraging me on the many times I wanted to give up. 
+- Friends and families for the projects they have lined-up for me - this certainly helps me keep going.
