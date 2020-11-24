@@ -18,10 +18,17 @@ body {
     margin: 0;
 }
 
+h1 {
+    color: #17a2b8;
+    padding-bottom: 15px;
+    text-align: center;
+}
+
 /* Banner Containers */
 
 .callout-container {
     height: 75vh;
+    background: url(assets/images/me.jpg);
    
     -webkit-background-size: cover;
     -moz-background-size: cover;
@@ -43,6 +50,23 @@ body {
     width: 100%;
 
 }
+
+/* Block dividers */
+
+.block-divider {
+    width: 75px;
+    height: 5px;
+    border: 0;
+    margin: 0 auto;
+    background-color: #f05f40;
+    text-align: center;
+}
+
+
+
+
+
+
 /* FOOTER */
 
 footer {
