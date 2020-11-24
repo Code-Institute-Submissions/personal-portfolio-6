@@ -45,6 +45,12 @@ h1 {
     position: relative;
 }
 
+@media (min-width: 768px) {
+    .callout-container {
+        width: 738px;
+    }
+}
+
 /* Block dividers */
 
 .block-divider {
