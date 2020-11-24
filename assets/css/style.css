@@ -121,7 +121,21 @@ p{
 /* FOOTER */
 
 footer {
-    margin: 5rem;
-    padding: 8rem;
-    background-color: blue;
+    padding-bottom: 10px;
+    background-color: #f8f9fa;
+    color: rgb(20, 19, 19);
+    min-height: 90px;
+}
+#social-links i {
+    font-size: 1.5em;
+    color: #f05f40;
+}
+
+small{
+    font-size: 1rem;
+}
+
+h5 {
+    margin-top: 2rem;
+    margin-left: 5px;
 }
