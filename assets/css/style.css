@@ -8,6 +8,10 @@
 	border: 0;
 }
 
+.custom-wrapper {
+    padding-top:4rem;    
+}
+
 body {
 	font-family: "Roboto", sans-serif;
 	font-weight: 100;
@@ -20,7 +24,7 @@ body {
 
 h1 {
     color: #17a2b8;
-    padding-bottom: 15px;
+    padding-bottom: 10px;
     text-align: center;
 }
 
@@ -28,7 +32,7 @@ h1 {
 
 .callout-container {
     height: 75vh;
-    background: url(../images/me.jpg);
+    background: url(../images/me.jpg) no-repeat center center fixed;
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
@@ -39,6 +43,17 @@ h1 {
     justify-content: left;
 
     position: relative;
+}
+
+/* Block dividers */
+
+.block-divider {
+    width: 75px;
+    height: 5px;
+    border: 0;
+    margin: 0 auto;
+    background-color: #f05f40;
+    text-align: center;
 }
 
 /* Jumbotron */
@@ -71,15 +86,8 @@ h1 {
 
 }
 
-/* Block dividers */
-
 .block-divider {
-    width: 75px;
-    height: 5px;
-    border: 0;
-    margin: 0 auto;
-    background-color: #f05f40;
-    text-align: center;
+    color: #ffff
 }
 
 /* About */
@@ -117,10 +125,10 @@ p{
     padding: 5px;
 }
 
-
 /* FOOTER */
 
 footer {
+    margin-top: 15px;
     padding-bottom: 10px;
     background-color: #f8f9fa;
     color: rgb(20, 19, 19);
