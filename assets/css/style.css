@@ -100,6 +100,7 @@ p{
 
 
 /* Skills */
+/* CREDIT - Skills layout inspiration and code from Hschafer portfolio - www.haleyschafer.com */
 
 #skills {
     background: url(../images/contact.jpg);
@@ -110,6 +111,81 @@ p{
     overflow: hidden;
     position: relative;
     padding-bottom: 10px;
+}
+
+.skills-inner {
+    margin-bottom: 10%;
+}
+
+.skill-circle {
+    display: inline-table;
+    margin-bottom: 55px;
+    justify-content: center;
+    display: flex;
+}
+
+.arc1 {
+    width: 160px;
+    height: 160px;
+    background: #564F6F;
+    -webkit-transform-origin: -51% 91%;
+    margin-left: -35px;
+    margin-top: -53px;
+    -webkit-transform: translate(-64px, 50px);
+    -moz-transform: translate(-64px, 50px);
+    -o-transform: translate(-64px, 50px);
+
+}
+
+.arc2 {
+    margin-left: -115px;
+    width: 193px;
+    height: 177px;
+    background: #564F6F;
+    -webkit-transform: skew(55deg, 0deg);
+    -moz-transform: skew(55deg, 0deg);
+    -o-transform: skew(55deg, 0deg);
+    position: absolute;
+    -webkit-transition: all .5s linear;
+}
+
+#html-load2 {
+    margin-top: -137px;
+}
+.arc-wrapper {
+    width: 120px;
+    height: 120px;
+    border-radius: 150px;
+    background: #d3d3d3;
+    overflow: hidden;
+    left: 0px;
+    top: 50px;
+    position: absolute;
+}
+
+.arc-overlay {
+    width: 110px;
+    height: 110px;
+    background-color: #fafafa;
+    padding-left: 20px;
+    padding-top: 6px;
+    box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    line-height: 100px;
+    font-weight: 400;
+    text-shadow: 0 1px 0 #fff;
+    font-size: 22px;
+    border-radius: 100px;
+    position: absolute;
+    z-index: 5;
+    top: 55px;
+    left: 5px;
+}
+
+.arc-container {
+    position: relative;
+    height: 130px;
+    width: 130px;
 }
 
 /* Work History */
