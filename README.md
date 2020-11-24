@@ -8,9 +8,9 @@ The contact form gives the opportunity for direct communication, not far below i
 
 ## Demo 
 
-Website live demo can ve found [here] (https://fabiane-martins.github.io/personal-portfolio/)
+Website live demo can ve found [here](https://fabiane-martins.github.io/personal-portfolio/)
 
-![Desktop Demo] (assets/docs/web-demo.png)
+![Desktop Demo](assets/docs/web-demo.png)
 
 ## UX
 The project target hiring managers with little time on their hands to scan throght and intere CV, hence the scroll down layout and sleek and clean design. The main focus is get the user to scan all the main infomation in one page and use the contact form or social links to get in touch or download the pdf CV.
@@ -45,17 +45,17 @@ In the furture, I'd like to add JavaScript function to create 'scrolling effect'
 
 ## Credits
 
-### Content
+#### Content
 
 All content in this portfolio website was written by me.
 
-### Media
+#### Media
 
-Banner image is an image of myself owned by myself. The background image in the skills section were taken from [unsplash](https://unsplash.com/images/stock), free stock-photo library. 
+Banner image is an image of myself owned by me. The background image in the skills section were taken from [unsplash](https://unsplash.com/images/stock), free stock-photo library. 
 
-### Code Snippets
+#### Code Snippets
 
-### Acknowledgements
+#### Acknowledgements
 
 - I'll give thanks to my mentor, Oluwafemi Medale for mentoring me on the processes of designing to create this website as well as me ntoring me on the best practises and tool to approach.
 - The slack community, in special Jim Morel, #user-centric-frontend lead channel for being tiredless and efficient in aswering the many questions I've posted on the forum. 
