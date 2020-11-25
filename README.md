@@ -57,9 +57,29 @@ In the furture, I'd like to add JavaScript function to create 'scrolling effect'
 
 ## Testing
 
+As the development progressed, each time a new feature was introduced I was testing as it goes and fixing or amending acordinly. Once the project was finilised and I was happy with it, I've tested all the function and links in different browsers.
+- Tested menu bar respnsiveness on iphone, desktop and tablet.
+- Tested social media lnks - this direct users to my social page in anothe tab.
+- Tested scrow down functionality.
+- Tested both header and footer donload cv feature - this opens the pdf CV in another tab.
+- Tested contact form button.
+- Tested code validation - no errors or warning showing.
+
 ## Deployment
 
-This site is hosted using GitHub pages once the master branch is deployed it will update automatically everytime commits are pushed to github. 
+This site is hosted using GitHub pages once the master branch is deployed it will update automatically everytime commits are pushed to the repository. 
+The code is written on Gitpod a clound base editor and can be accessed via Gitpod workspace or Github [here](https://github.com/Fabiane-Martins/personal-portfolio). The download the zip file can also be found in the project directory by clicking the code button. 
+
+## Resources
+
+- Code Institure Course Content
+- Course Slack community
+- My mentor Oluwafemi Medale
+- Course tutor
+- Youtube videos
+- W3 school website
+- Bootstrap documentation
+- CSS tricks website
 
 ## Credits
 
