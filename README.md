@@ -15,10 +15,36 @@ Website live demo can be found [here](https://fabiane-martins.github.io/personal
 ![Desktop Demo](assets/docs/web-demo.png)
 
 ## UX
+
 This project is to target hiring managers with little time on their hands to scan through an entire CV, hence the scroll down layout and sleek and clean design. The main focus is get the user to scan all the main infomation in one page and use the contact form or social links to get in touch or download the pdf CV.
 
-![Mobile Framework](assets/docs/mobile-framework.png)
-![Desktop Framewor](assets/docs/desktop-framework.png)
+
+
+#### User stories
+    - ##### First Time Visitor Goals
+    a. I want to spend as little time as possible on the website.
+    b. I want to learn more about the candidate and its skill set.
+    c. I want information on its past experience.
+    d. I want to see the candidate projects so, I will check its social media links.
+
+    - ##### Return Visitor Goals
+    
+    a. I want to contact the candidate. 
+    b. I want to download the CV.
+
+    - ##### Frequent User Goals
+    a. I'd like to see new projects.
+    b. I'd like a blog.
+
+#### Design
+    -##### Color Scheme
+    
+
+#### Wireframes
+
+Desktop wireframe - [view](assets/docs/desktop-framework.png)
+Mobile wireframe - [view](assets/docs/mobile-framework.png)
+
 
 ## Features
 
