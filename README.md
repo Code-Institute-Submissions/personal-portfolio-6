@@ -18,35 +18,33 @@ Website live demo can be found [here](https://fabiane-martins.github.io/personal
 
 This project is to target hiring managers with little time on their hands to scan through an entire CV, hence the scroll down layout and sleek and clean design. The main focus is get the user to scan all the main infomation in one page and use the contact form or social links to get in touch or download the pdf CV.
 
-
-
 #### User stories
 
 -   ##### First Time Visitor Goals
-    a. I want to spend as little time as possible on the website.
-    b. I want to learn more about the candidate and its skill set.
-    c. I want information on its past experience.
-    d. I want to see the candidate projects so, I will check its social media links.
+    1. I want to spend as little time as possible on the website.
+    2. I want to learn more about the candidate and its skill set.
+    3. I want information on its past experience.
+    4. I want to see the candidate projects so, I will check its social media links.
 
 -   ##### Return Visitor Goals
-        a. I want to contact the candidate. 
-        b. I want to download the CV.
+    a. I want to contact the candidate. 
+    b. I want to download the CV.
 
 -   ##### Frequent User Goals
-        a. I'd like to see new projects.
-        b. I'd like a blog.
+    a. I'd like to see new projects.
+    b. I'd like a blog.
 
 #### Design
 
 -   ##### Color Scheme
-        The main color is Boostrap custom light grey however, I've choosen blue and orange as an accent colour to separate content from title.
+    The main color is Boostrap custom light grey however, I've choosen blue and orange as an accent colour to separate content from title.
 
 -   ##### Typography
-        Roboto is the main font inported from Google Fonts with Sans Serif as fallback font. 
-        Roboto is rounded and clean typography it is also easy to ready.
+    Roboto is the main font inported from Google Fonts with Sans Serif as fallback font. 
+    Roboto is rounded and clean typography it is also easy to ready.
 
-- ##### Imagery
-        Imagery capture visitors atthention and provide a better user experience. Two images was choosen, the main banner of myself and a background image for the skill section.
+-   ##### Imagery
+    Imagery capture visitors atthention and provide a better user experience. Two images was choosen, the main banner of myself and a background image for the skill section.
 
 #### Wireframes
 
@@ -85,11 +83,11 @@ In the furture, I'd like to add JavaScript function to create a 'scrolling effec
     5. GitPod - IDE workspace
     6. GitHub - project repository and hosting service
 
-## Code Validation
+-   ##### Code Validation
 
-1. Close Tag Checker [link](https://www.aliciaramirez.com/closing-tags-checker/)
-2. W3 CSS validator [link](https://jigsaw.w3.org/css-validator/)
-3. Nu HTML validator [link](https://validator.w3.org/nu/#textarea)
+    1. Close Tag Checker [link](https://www.aliciaramirez.com/closing-tags-checker/)
+    2. W3 CSS validator [link](https://jigsaw.w3.org/css-validator/)
+    3. Nu HTML validator [link](https://validator.w3.org/nu/#textarea)
 
 ## Testing
 
