@@ -27,12 +27,12 @@ This project is to target hiring managers with little time on their hands to sca
     4. I want to see the candidate projects so, I will check its social media links.
 
 -   ##### Return Visitor Goals
-    a. I want to contact the candidate. 
-    b. I want to download the CV.
+    1. I want to contact the candidate. 
+    2. I want to download the CV.
 
 -   ##### Frequent User Goals
-    a. I'd like to see new projects.
-    b. I'd like a blog.
+    1. I'd like to see new projects.
+    2. I'd like a blog.
 
 #### Design
 
@@ -65,9 +65,9 @@ In the furture, I'd like to add JavaScript function to create a 'scrolling effec
 
 ## Strategy
 
-1. My goal is to have all the information in one page but separated by section within a scroll down manner.
-2. A fixed nav bar is avaliable to allow users to move quickly between pages.
-3. The design is clean and minimalist for an easy reading.
+- My goal is to have all the information in one page but separated by section within a scroll down manner.
+- A fixed nav bar is avaliable to allow users to move quickly between pages.
+- The design is clean and minimalist for an easy reading.
 
 ## Technologies Used
 
@@ -76,18 +76,19 @@ In the furture, I'd like to add JavaScript function to create a 'scrolling effec
     -   CSS3
 
 -   ##### Framework, Libraries & Tools Used 
-    1. Bootstrap - via CDN to html doc
-    2. Google Fonts - import typography url to style.css sheet
-    3. TinyPNG - image compressor
-    4. PicMonkey - image resize
-    5. GitPod - IDE workspace
-    6. GitHub - project repository and hosting service
+    -   Bootstrap - via CDN to html doc
+    -   Google Fonts - import typography url to style.css sheet
+    -   TinyPNG - image compressor
+    -   PicMonkey - image resize
+    -   GitPod - IDE workspace
+    -   GitHub - project repository and hosting service
+    -   Balsamiq - used to cread wireframe design
 
 -   ##### Code Validation
 
-    1. Close Tag Checker [link](https://www.aliciaramirez.com/closing-tags-checker/)
-    2. W3 CSS validator [link](https://jigsaw.w3.org/css-validator/)
-    3. Nu HTML validator [link](https://validator.w3.org/nu/#textarea)
+    -   Close Tag Checker [link](https://www.aliciaramirez.com/closing-tags-checker/)
+    -   W3 CSS validator [link](https://jigsaw.w3.org/css-validator/)
+    -   Nu HTML validator [link](https://validator.w3.org/nu/#textarea)
 
 ## Testing
 
@@ -97,23 +98,30 @@ As the development progressed, I tested each new feature and fixed or amended it
 - Tested scrow down functionality.
 - Tested both header and footer donload cv feature - this opens the pdf CV in another tab.
 - Tested contact form button.
+- Tested that all pages were linked correct.
 - Tested code validation - no errors or warnings showing.
 
 ## Deployment
 
-This site is hosted using GitHub pages once the master branch is deployed it will update automatically everytime commits are pushed to the repository. 
-The code is written on Gitpod a cloud based editor and can be accessed via Gitpod workspace or Github [here](https://github.com/Fabiane-Martins/personal-portfolio). To download the zip file can also be found in the project directory by clicking the code button. 
+This site is hosted using GitHub pages and has been deployed with the following processes: 
+- The code is written on Gitpod a cloud based IDE and can be accessed via Gitpod workspace or Github [here](https://github.com/Fabiane-Martins/personal-portfolio). 
+- The code is was pushed to my Githug repository where it is hosted.
+- To generate the url, I went under the setting section of the GitHub repository - scrolled down to GitHub Pages section and under the code selected master branch.
+- Once selected and saved it published the project to GitHub Pages.
+- Once the master branch is deployed it will update automatically everytime commits are pushed to the repository.
+- The download the zip file is located under the code button. 
+- The files can be unziped and cloned on local machine. Click [here](https://docs.github.com/en/free-pro-team@latest/github/creating-cloning-and-archiving-repositories/cloning-a-repository#cloning-a-repository-to-github-desktop)to find further instructure on how to clone a repository.
 
 ## Resources
 
-- Code Institure Course Content
+- [Code Institure](https://courses.codeinstitute.net/) Course Content
 - Course Slack community
 - My mentor Oluwafemi Medale
 - Course tutor
 - Youtube videos
-- W3 school website
-- Bootstrap documentation
-- CSS tricks website
+- [W3 school](https://www.w3schools.com/) website
+- [Bootstrap](https://getbootstrap.com/docs/4.5/getting-started/introduction/) documentation
+- [CSS tricks](https://css-tricks.com/) website
 
 ## Credits
 
