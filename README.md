@@ -14,31 +14,37 @@ Website live demo can be found [here](https://fabiane-martins.github.io/personal
 
 ![Desktop Demo](assets/docs/web-demo.png)
 
-## UX
+## User Experience (UX)
 
 This project is to target hiring managers with little time on their hands to scan through an entire CV, hence the scroll down layout and sleek and clean design. The main focus is get the user to scan all the main infomation in one page and use the contact form or social links to get in touch or download the pdf CV.
 
 
 
 #### User stories
-    - ##### First Time Visitor Goals
-    a. I want to spend as little time as possible on the website.
-    b. I want to learn more about the candidate and its skill set.
-    c. I want information on its past experience.
-    d. I want to see the candidate projects so, I will check its social media links.
 
-    - ##### Return Visitor Goals
-    
-    a. I want to contact the candidate. 
-    b. I want to download the CV.
+-   ##### First Time Visitor Goals
+        a. I want to spend as little time as possible on the website.
+        b. I want to learn more about the candidate and its skill set.
+        c. I want information on its past experience.
+        d. I want to see the candidate projects so, I will check its social media links.
 
-    - ##### Frequent User Goals
-    a. I'd like to see new projects.
-    b. I'd like a blog.
+-   ##### Return Visitor Goals
+        a. I want to contact the candidate. 
+        b. I want to download the CV.
+
+-   ##### Frequent User Goals
+        a. I'd like to see new projects.
+        b. I'd like a blog.
 
 #### Design
-    -##### Color Scheme
-    
+
+-   ##### Color Scheme
+       The main color is Boostrap custom light grey however, I've choosen blue and orange as an accent colour to separate content from title.
+
+-   ##### Typography
+        Roboto is the main font inported from Google Fonts with Sans Serif as fallback font. Roboto is rounded and clean typography and easy to ready.
+        
+         
 
 #### Wireframes
 
