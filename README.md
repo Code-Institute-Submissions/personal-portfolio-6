@@ -48,8 +48,8 @@ This project is to target hiring managers with little time on their hands to sca
 
 #### Wireframes
 
-Desktop wireframe - [view](assets/docs/desktop-framework.png)
-Mobile wireframe - [view](assets/docs/mobile-framework.png)
+- Desktop wireframe - [view](assets/docs/desktop-framework.png)
+- Mobile wireframe - [view](assets/docs/mobile-framework.png)
 
 ## Features
 
@@ -135,8 +135,8 @@ Banner image is an image of myself owned by me. The background image in the skil
 
 #### Code Snippets
 
-[Code Institute Course Content](https://courses.codeinstitute.net/)
-[Bootstrap](https://getbootstrap.com/)
+- [Code Institute Course Content](https://courses.codeinstitute.net/)
+- [Bootstrap](https://getbootstrap.com/)
 
 #### Acknowledgements
 
