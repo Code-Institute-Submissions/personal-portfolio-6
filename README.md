@@ -23,10 +23,10 @@ This project is to target hiring managers with little time on their hands to sca
 #### User stories
 
 -   ##### First Time Visitor Goals
-        a. I want to spend as little time as possible on the website.
-        b. I want to learn more about the candidate and its skill set.
-        c. I want information on its past experience.
-        d. I want to see the candidate projects so, I will check its social media links.
+    a. I want to spend as little time as possible on the website.
+    b. I want to learn more about the candidate and its skill set.
+    c. I want information on its past experience.
+    d. I want to see the candidate projects so, I will check its social media links.
 
 -   ##### Return Visitor Goals
         a. I want to contact the candidate. 
@@ -39,18 +39,19 @@ This project is to target hiring managers with little time on their hands to sca
 #### Design
 
 -   ##### Color Scheme
-       The main color is Boostrap custom light grey however, I've choosen blue and orange as an accent colour to separate content from title.
+        The main color is Boostrap custom light grey however, I've choosen blue and orange as an accent colour to separate content from title.
 
 -   ##### Typography
-        Roboto is the main font inported from Google Fonts with Sans Serif as fallback font. Roboto is rounded and clean typography and easy to ready.
-        
-         
+        Roboto is the main font inported from Google Fonts with Sans Serif as fallback font. 
+        Roboto is rounded and clean typography it is also easy to ready.
+
+- ##### Imagery
+        Imagery capture visitors atthention and provide a better user experience. Two images was choosen, the main banner of myself and a background image for the skill section.
 
 #### Wireframes
 
 Desktop wireframe - [view](assets/docs/desktop-framework.png)
 Mobile wireframe - [view](assets/docs/mobile-framework.png)
-
 
 ## Features
 
@@ -72,14 +73,17 @@ In the furture, I'd like to add JavaScript function to create a 'scrolling effec
 
 ## Technologies Used
 
-1. HTML5
-2. CSS3
-3. Bootstrap - via CDN to html doc
-4. Google Fonts - import typography url to style.css sheet
-5. TinyPNG - image compressor
-6. PicMonkey - image resize
-7. GitPod - IDE workspace
-8. GitHub - project repository and hosting service
+-   ##### Languages Used
+    -   HTML5
+    -   CSS3
+
+-   ##### Framework, Libraries & Tools Used 
+    1. Bootstrap - via CDN to html doc
+    2. Google Fonts - import typography url to style.css sheet
+    3. TinyPNG - image compressor
+    4. PicMonkey - image resize
+    5. GitPod - IDE workspace
+    6. GitHub - project repository and hosting service
 
 ## Code Validation
 
